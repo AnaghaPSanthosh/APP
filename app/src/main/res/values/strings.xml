@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PROJ</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="enter_your_mobile_no">Enter your mobile no.</string>
+</resources>
