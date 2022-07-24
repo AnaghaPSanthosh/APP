@@ -34,8 +34,9 @@
         android:hint="Enter your Username or Email id"
         android:inputType="textEmailAddress"
         android:paddingLeft="8dp"
-        android:textColor=""
-        android:textColorHint="">
+        android:textColorHint="@color/design_default_color_primary"
+        android:textColor="@color/design_default_color_primary"
+     >
 
         <requestFocus />
     </EditText>
@@ -53,8 +54,8 @@
         android:hint="Enter your password"
         android:inputType="textPassword"
         android:paddingLeft="8dp"
-        android:textColor=""
-        android:textColorHint="" />
+        android:textColorHint="@color/design_default_color_primary"
+        android:textColor="@color/design_default_color_primary"/>
 
     <Button
         android:id="@+id/login"

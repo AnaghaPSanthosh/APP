@@ -90,7 +90,7 @@ public class LOGIN extends AppCompatActivity {
         mCreateBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(getApplicationContext(),signup.class));
+                startActivity(new Intent(getApplicationContext(), signup1.class));
             }
         });
 

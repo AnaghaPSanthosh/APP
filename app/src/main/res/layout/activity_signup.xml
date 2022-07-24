@@ -7,7 +7,7 @@
     android:background="@drawable/wall"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context=".signup">
+    tools:context=".signup1">
 
     <RelativeLayout
         android:id="@+id/top"
